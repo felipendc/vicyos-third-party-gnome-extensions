@@ -9,13 +9,11 @@ has its own maintainers and here are their maintainters and source code:
 ***Source:*** github.com/kgshank/gse-sound-output-device-chooser <br />
 
 <br />
-<br />
 
 ***Maintainer:*** biji (Simple net speed) <br />
 ***folder name:*** simplenetspeed@biji.extension <br />
 ***Source:*** github.com/biji/simplenetspeed <br />
 
-<br />
 <br />
 
 ***Maintainer:*** HarlemSquirrel (Sensory Perception) <br />
@@ -23,13 +21,11 @@ has its own maintainers and here are their maintainters and source code:
 ***Source:*** https://github.com/HarlemSquirrel/gnome-shell-extension-sensory-perception <br />
 
 <br />
-<br />
 
 ***Maintainer:*** Jens Lody (gnome-shell-extension-openweather) <br />
 ***folder name:*** openweather-extension@jenslody.de <br />
 ***Source:*** https://gitlab.com/jenslody/gnome-shell-extension-openweather <br />
 
-<br />
 <br />
 
 ***Maintainer:*** andyholmes (gnome-shell-extension-gsconnect) <br />
@@ -37,13 +33,11 @@ has its own maintainers and here are their maintainters and source code:
 ***Source:*** https://github.com/andyholmes/gnome-shell-extension-gsconnect/wiki <br />
 
 <br />
-<br />
 
 ***Maintainer:*** neumann-d (ShutdownTimer) <br />
 ***folder name:*** ShutdownTimer@neumann <br />
 ***Source:*** https://github.com/neumann-d/ShutdownTimer <br />
 
-<br />
 <br />
 
 ***Packager for VicyosLinux:*** Felipe Ndc (Vicyos) <felipendc10@gmail.com> <br />
