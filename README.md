@@ -1,6 +1,6 @@
 vicyos-third-party-gnome-extensions:
 
- Each gnome extension from ´vicyos-third-party-gnome-extensions-git-*.zst' 
+ Each gnome extension from "vicyos-third-party-gnome-extensions-git-*.zst"
 has its own maintainers and here are their maintainters and source code:
 
 
