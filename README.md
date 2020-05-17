@@ -1,7 +1,7 @@
 vicyos-third-party-gnome-extensions:
 
  Each gnome extension from "vicyos-third-party-gnome-extensions-git-*.zst"
-has its own maintainers and here are their maintainters and source code:
+has its own maintainers. Here are the maintainters and source code:
 
 
 ***Maintainer:*** kgshank (Gnome Shell Extension - Sound Input & Output Device Chooser) <br />
